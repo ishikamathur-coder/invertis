@@ -1,0 +1,15 @@
+<> -:                   opENING TAG 
+</> -:                  CLOSING TAG 
+<!DOCTYPE html> -:      document type 
+[h1 , h3 ... -:         headings
+doctype to </html> -:   called BOILER PLATE
+<html lang="en"> -:     english language mei likhna hai
+ title -:               naming the tab  
+ body -:                for the content of making WEB
+ p , b , i , u -:       (paragragh , bold , italic , underline) font edits
+ <a></a> -:             anchor tag [used to add hyperlink to our webpage and that's help redirect the page]
+ href -:                HYPER REFFERAL FOR LINKS
+ 
+ TWO TYPES OF TAGS :-
+ 1. SEMANTIC TAGS {MEANINGABLE TAGS}
+ 2. NON SEMANTIC TAGS {SENSE NHI BANA RHA HAI}
